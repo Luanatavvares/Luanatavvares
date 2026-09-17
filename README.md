@@ -22,11 +22,11 @@
 
 <h3 align="center"> Sobre mim </h3>
 
-Sou estudante de Ciência da Computação na Universidade Federal de Viçosa (UFV) e tenho interesse em desenvolvimento de software, algoritmos e otimização.
+Sou estudante de Ciência da Computação na Universidade Federal de Viçosa (UFV) e tenho interesse em Desenvolvimento de Software, Pesquisa Operacional e Otimização.
 
-Minha trajetória acadêmica combina desenvolvimento back-end e pesquisa aplicada. Tenho experiência com Java, Spring Boot, JPA, Hibernate, SQL e APIs REST, além de Python para desenvolvimento de algoritmos e análise de dados.
+Minha trajetória acadêmica combina desenvolvimento back-end e pesquisa aplicada. Tenho experiência com Java, Spring Boot, JPA, Hibernate, SQL e APIs REST, além de Python para desenvolvimento de algoritmos de otimização e análise exploratória de dados.
 
-Na pesquisa, trabalho com Otimização Combinatória, tendo desenvolvido soluções para o Problema de Roteamento de Veículos com Janelas de Tempo (VRPTW) utilizando algoritmos genéticos e heurísticas de busca local. Atualmente, também estudo Computação Quântica aplicada à otimização, explorando QAOA, QUBO e Qiskit.
+Na pesquisa, trabalho com Otimização Combinatória, tendo desenvolvido soluções para o Problema de Roteamento de Veículos com Janelas de Tempo utilizando algoritmos genéticos, heurísticas e busca local. Atualmente, também estudo Computação Quântica aplicada à otimização, explorando  o Hybrid Quantum Genetic Algorithm, Quantum Approximate Optimization Algorithm  e ferramentas como o Qiskit.
 
 <h3 align="center"> Ferramentas e Linguagens </h3>
 
