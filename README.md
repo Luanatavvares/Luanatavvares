@@ -22,6 +22,9 @@ Minha trajetória acadêmica combina desenvolvimento back-end e pesquisa aplicad
 
 Na pesquisa, trabalho com Otimização Combinatória, tendo desenvolvido soluções para o Problema de Roteamento de Veículos com Janelas de Tempo (VRPTW) utilizando algoritmos genéticos e heurísticas de busca local. Atualmente, também estudo Computação Quântica aplicada à otimização, explorando QAOA, QUBO e Qiskit.
 
+<h3 align="center"> Ferramentas e Linguagens </h3>
+
+
 ###
 
 <div align="center">
