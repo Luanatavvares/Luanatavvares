@@ -7,19 +7,20 @@
 
 
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luana-tavares-14038b356/" alt="LinkedIn"/></a>
-  
+<p align="center">
+  <a href="mailto:luanataresanselmo2026@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luana-tavares-14038b356/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 </div>
 
 <img align="right" src="./src/avatar.png" width="180" />
 
-Sobre mim
+<h3 align="center"> Sobre mim </h3>
 
 Sou estudante de Ciência da Computação na Universidade Federal de Viçosa (UFV) e tenho interesse em desenvolvimento de software, algoritmos e otimização.
 
