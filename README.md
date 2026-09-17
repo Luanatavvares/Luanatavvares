@@ -18,29 +18,11 @@
 
 
 
-<br clear="both">
 
-<div align="center">
-  <img height="150" src="https://educacao.imaginie.com.br/wp-content/uploads/2020/12/Como-preparar-e-dar-aulas-online-mantendo-o-foco-dos-alunos.gif"  />
-</div>
 
-###
 
-<div align="center">
-  <a href="https://discord.com/users/1157824732876517418" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="mailto:alinesantoscss17@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/aline-santos-544985346" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
 
-###
 
-<h3 align="center">Sobre mim</h3>
 
 
 
