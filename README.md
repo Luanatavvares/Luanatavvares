@@ -1,6 +1,7 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Luana&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-### Olá, meu nome é Luana!
+<h2 align="left">Olá, meu nome é Luana!</h2><p align="center">
+  <img src="./src/avatar.png" width="200" />
+</p>
 
 
 Sou estudante de Ciência da Computação na Universidade Federal de Viçosa (UFV), onde venho construindo minha trajetória entre desenvolvimento de software, otimização e pesquisa aplicada.
@@ -14,9 +15,6 @@ Atualmente, também desenvolvo uma pesquisa em Computação Quântica e Otimiza�
 Gosto de aprender na prática, investigar como as coisas funcionam e transformar problemas em soluções por meio da tecnologia. Atualmente, busco oportunidades na área de desenvolvimento de software, especialmente back-end, onde possa continuar evoluindo tecnicamente e aplicar o conhecimento que venho construindo na universidade e em projetos de pesquisa.
 
 
-<p align="center">
-  <img src="./src/avatar.png" width="200" />
-</p>
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Luana&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
