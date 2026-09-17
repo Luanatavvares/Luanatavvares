@@ -6,9 +6,15 @@
 ###
 
 
-Estudante de Ciência da Computação · Desenvolvedora Back-end · Pesquisadora em Otimização
 
-<p> <a href="mailto:luanataresanselmo2026@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/luana-tavares-14038b356/"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /> </a> </p>
+<p>
+  <a href="mailto:luanataresanselmo2026@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/luana-tavares-14038b356/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
