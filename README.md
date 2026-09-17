@@ -1,6 +1,10 @@
-<div align="center">
 
-Olá! Eu sou a Luana 
+###
+
+<h3 align="center"> Olá! Eu sou a Luana </h3>
+
+###
+
 
 Estudante de Ciência da Computação · Desenvolvedora Back-end · Pesquisadora em Otimização
 
