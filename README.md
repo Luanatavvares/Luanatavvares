@@ -42,15 +42,8 @@
 
 <h3 align="center">Sobre mim</h3>
 
-###
 
-<p align="left">Meu nome é Aline Santos, sou técnica em Informática pela Universidade Federal de Viçosa (UFV) e atualmente curso Ciência da Computação na mesma instituição.<br><br>Sou uma pessoa curiosa e apaixonada por aprender coisas novas, principalmente quando envolvem tecnologia e inovação. Ao longo da minha trajetória acadêmica, já tive experiências com desenvolvimento de software, metodologias ágeis, blockchain, análise de dados e projetos acadêmicos voltados à resolução de problemas reais.<br><br>Atualmente estou focada em aprimorar minhas habilidades em desenvolvimento fullstack, com ênfase em tecnologias como React, Node.js e TypeScript. Busco constantemente evoluir minha base técnica, escrever códigos mais limpo e entender boas práticas de arquitetura e organização de projetos.<br><br>Tenho interesse em crescer profissionalmente na área de desenvolvimento de software, contribuindo para soluções que gerem impacto e aprendizado contínuo.</p>
 
-###
-
-<h3 align="center">Linguagem e Ferramentas</h3>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
