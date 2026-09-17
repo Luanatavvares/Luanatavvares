@@ -2,6 +2,18 @@
 
 ### Olá, meu nome é Luana!
 
+
+Sou estudante de Ciência da Computação na Universidade Federal de Viçosa (UFV), onde venho construindo minha trajetória entre desenvolvimento de software, otimização e pesquisa aplicada.
+
+Minha principal área de interesse é o desenvolvimento back-end, especialmente com Java, Spring Boot, JPA, Hibernate, SQL e APIs REST. Gosto de entender como as aplicações funcionam por trás das interfaces, desde a modelagem dos dados até a construção de soluções organizadas, eficientes e fáceis de manter.
+
+Minha experiência acadêmica também me levou para o campo da otimização combinatória. Em projetos de iniciação científica, trabalhei com problemas de roteamento de veículos com janelas de tempo (VRPTW), desenvolvendo e avaliando algoritmos para encontrar soluções eficientes para problemas de grande complexidade. Essa experiência despertou meu interesse por algoritmos, heurísticas e pela aplicação de computação para resolver problemas de otimização.
+
+Atualmente, também desenvolvo uma pesquisa em Computação Quântica e Otimização Combinatória, explorando algoritmos como QAOA e formulações QUBO, utilizando Python e Qiskit. Paralelamente, tenho experiência com análise de dados e projetos que envolvem a aplicação prática de tecnologia, sempre buscando conectar programação e resolução de problemas.
+
+Gosto de aprender na prática, investigar como as coisas funcionam e transformar problemas em soluções por meio da tecnologia. Atualmente, busco oportunidades na área de desenvolvimento de software, especialmente back-end, onde possa continuar evoluindo tecnicamente e aplicar o conhecimento que venho construindo na universidade e em projetos de pesquisa.
+
+
 <p align="center">
   <img src="./src/avatar.png" width="200" />
 </p>
