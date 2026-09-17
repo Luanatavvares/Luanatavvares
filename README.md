@@ -1,5 +1,4 @@
-
-<h2 align="left">Olá, meu nome é Luana!</h2><p align="center">
+                                                    ## Olá, meu nome é Luana!
   <img src="./src/avatar.png" width="200" />
 </p>
 
