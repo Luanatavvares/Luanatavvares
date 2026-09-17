@@ -7,7 +7,7 @@
 
 
 
-<p>
+<p align="center">
   <a href="mailto:luanataresanselmo2026@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
