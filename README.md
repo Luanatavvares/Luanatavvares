@@ -2,6 +2,10 @@
 
 ### Olá, meu nome é Luana!
 
+<p align="center">
+  <img src="./src/avatar.png" width="200" />
+</p>
+
 <img src="https://img.shields.io/static/v1?label=Overview&message=Luana&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p align="left">
